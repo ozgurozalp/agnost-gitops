@@ -301,15 +301,6 @@
 .log-viewer {
 	white-space: pre-wrap;
 	font-family: 'Courier New', Courier, monospace;
-	display: flex;
-	flex-direction: column-reverse;
-	container-type: size;
-}
-
-.log-viewer-container {
-	flex: 1;
-	overflow-y: auto;
-	max-height: 100cqh;
 }
 
 .Toastify {
